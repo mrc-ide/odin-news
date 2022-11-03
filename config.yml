@@ -1,6 +1,6 @@
 baseURL: "http://mrc-ide.github.io/odin-news/"
 languageCode: "en-gb"
-title: "Wodin News"
+title: "Odin News"
 theme: "PaperMod"
 enableEmoji: true
 
