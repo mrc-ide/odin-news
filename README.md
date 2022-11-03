@@ -1,6 +1,13 @@
-# wodin-news
+# odin-news
 
-This is the source for our wodin changelog, it will be deployed to https://reside-ic.github.io/wodin-news
+This is the source for our odin changelog, it will be deployed to https://mrc-ide.github.io/odin-news - it covers changes to the odin stack:
+
+* [odin](https://mrc-ide.github.io/odin)
+* [dust](https://mrc-ide.github.io/dust)
+* [odin.dust](https://mrc-ide.github.io/odin.dust)
+* [mcstate](https://mrc-ide.github.io/mcstate)
+
+It does not cover [wodin](https://github.com/mrc-ide/wodin) related news, which is available [on its own site](https://reside-ic.github.io/wodin-news)
 
 ## Install hugo
 
@@ -9,7 +16,7 @@ This needs a recentish version of hugo (at least 0.83), which might not get on w
 ## Download source
 
 ```
-git clone --recursive git@github.com:reside-ic/wodin-news
+git clone --recursive git@github.com:mrc-ide/odin-news
 ```
 
 ## Create a new post
@@ -39,7 +46,7 @@ summary: "A string here" # set this to force the summary content
 hugo serve
 ```
 
-Visit http://localhost:1313/wodin-news/ to see changes, editing the file will reflect immediately
+Visit http://localhost:1313/odin-news/ to see changes, editing the file will reflect immediately
 
 ## Docs
 
